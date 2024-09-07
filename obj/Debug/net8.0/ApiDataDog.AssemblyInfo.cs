@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiDataDog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c68c5ca5d6e292bd03854d01b94dfab465f2442")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiDataDog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiDataDog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
